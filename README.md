@@ -105,7 +105,6 @@ cosmic-speed-control-main/
 - **Textures:** NASA/JPL (public domain) or generated
 - **3D Engine:** [three.js](https://threejs.org/) via React Three Fiber
 - **UI:** [shadcn/ui], [Radix UI], [Lucide Icons]
-- **Author:** Lovable (see `index.html`)
 
 ---
 
